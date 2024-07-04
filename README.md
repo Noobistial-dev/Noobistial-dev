@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Noobistial-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Noobistial-dev" /> </p>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/19_celestial?logo=twitter&style=for-the-badge" alt="19_celestial" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/19_celestial?logo=twitter&style=for-the-badge" alt="Noobistial-dev" /></a> </p>
 
 - 🌱 I’m currently learning *Flutter*
 
