@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm SAUMYA KUMAR RAI (noobistial)</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="![photo](https://github.com/user-attachments/assets/8f48b38c-8a74-409d-98ef-6b7e35bd5584)">
-
+![photo](https://github.com/user-attachments/assets/8f48b38c-8a74-409d-98ef-6b7e35bd5584)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Noobistial-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Noobistial-dev" /> </p>
 
 
