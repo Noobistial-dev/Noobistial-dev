@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/19_celestial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="19_celestial" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saumyakrrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-kumar-b42161288" height="30" width="40" /></a>
-<a href="https://instagram.com/clestial.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clestial.dev" height="30" width="40" /></a>
+<a href="https://x.com/dev_noobistial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dev_noobistial" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saumyakrrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saumya Kumar Rai" height="30" width="40" /></a>
+<a href="https://www.instagram.com/noobistial?igsh=MTVmcW1pOWUxNjVuNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev-noobistial" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
