@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning *Flutter*
+- 🌱 I’m currently learning *AIML*
 
-- 💬 Ask me about *MERN, Java*
+- 💬 Ask me about *Python, C++*
 
 - 📫 How to reach me *dev.noobistial@gmail.com*
 
