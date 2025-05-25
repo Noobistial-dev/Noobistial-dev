@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm SAUMYA KUMAR RAI (noobistial)</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="200" src="![photo](https://github.com/user-attachments/assets/e31176e9-4be1-446b-80db-5e5331f233f5)">
+<img align="right" alt="Coding" width="400" src="![photo](https://github.com/user-attachments/assets/e31176e9-4be1-446b-80db-5e5331f233f5)">
 
 
 
